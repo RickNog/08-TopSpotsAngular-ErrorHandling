@@ -1,0 +1,9 @@
+/*Adds margins to top and bottom of table*/
+body{
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+/*Centers the title on page*/
+h1 {
+	text-align: center;
+}
